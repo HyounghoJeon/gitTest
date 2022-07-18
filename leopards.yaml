@@ -1,6 +1,10 @@
 team: Leopards
 
+<<<<<<< HEAD
 manager: Rufy
+=======
+manager: Dooli
+>>>>>>> 852ce21 (Change Manager to Leopards)
 
 coach: Nicholas
 
