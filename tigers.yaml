@@ -13,3 +13,5 @@ members:
   - Change3
   - Change4
   - Stash1
+  - git commit --amend 1
+  - git commit --amend 2
