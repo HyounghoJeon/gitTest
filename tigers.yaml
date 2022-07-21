@@ -18,3 +18,4 @@ members:
   - git commit --amend 3
   - Test to see reflog
   - Test about Merge way
+  - Test about Merge way2
