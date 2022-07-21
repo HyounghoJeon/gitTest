@@ -19,3 +19,4 @@ members:
   - Test to see reflog
   - Test about Merge way
   - Test about Merge way2
+  - merge --no-ff branchName
