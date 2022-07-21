@@ -15,3 +15,4 @@ members:
   - Stash1
   - git commit --amend 1
   - git commit --amend 2
+  - git commit --amend 3
