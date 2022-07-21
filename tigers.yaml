@@ -16,3 +16,4 @@ members:
   - git commit --amend 1
   - git commit --amend 2
   - git commit --amend 3
+  - Test to see reflog
