@@ -1,10 +1,3 @@
-# gitTest
-## gitTest
-### gitTest
+# This is project for learning about Git
 
-`TEST`
-
-```
-TEST
-TEST
-```
+> **https://pod20220714.tistory.com/manage/posts/**
