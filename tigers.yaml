@@ -22,3 +22,4 @@ members:
   - merge --no-ff branchName
   - Test for git diff
   - Test
+  - Test2
